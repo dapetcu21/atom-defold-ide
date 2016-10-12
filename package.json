@@ -32,7 +32,11 @@
       "__LOG__"
     ]
   },
+  "package-deps": [
+    "autocomplete-lua"
+  ],
   "dependencies": {
+    "atom-package-deps": "^4.3.1",
     "jszip": "^3.1.3"
   }
 }
