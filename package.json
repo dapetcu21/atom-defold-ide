@@ -4,10 +4,10 @@
   "description": "Autocomplete and more for the Defold game engine",
   "repository": {
     "type": "git",
-    "url": "https://github.com/dapetcu21/defold-ide.git"
+    "url": "https://github.com/dapetcu21/atom-defold-ide.git"
   },
   "bugs": {
-    "url": "https://github.com/dapetcu21/defold-ide/issues"
+    "url": "https://github.com/dapetcu21/atom-defold-ide/issues"
   },
   "main": "lib/index.js",
   "providedServices": {
