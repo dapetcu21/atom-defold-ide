@@ -1,0 +1,2 @@
+'atom-text-editor':
+  'cmd-r': 'defold-ide:hot-reload'
