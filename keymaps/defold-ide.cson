@@ -1,2 +1,6 @@
-'atom-text-editor':
+'.platform-darwin atom-workspace atom-text-editor':
   'cmd-r': 'defold-ide:hot-reload'
+'.platform-linux atom-workspace atom-text-editor':
+  'ctrl-r': 'defold-ide:hot-reload'
+'.platform-win32 atom-workspace atom-text-editor':
+  'ctrl-r': 'defold-ide:hot-reload'
