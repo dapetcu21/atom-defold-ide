@@ -8,7 +8,7 @@ This package provides hot reloading, autocompletion and in-line API docs for the
 
 Just like with the Defold editor, you can press `cmd-r` to [hot reload](http://www.defold.com/manuals/debugging/#anchor-hr) the current file.
 
-In order for this feature to work, you need to download `bob.jar` from `http://d.defold.com/` and provide the path to it in the package settings.
+In order for this feature to work, you need to download `bob.jar` from `http://d.defold.com/` and provide the path to it in the package settings. Make sure you always match the version of the Defold Editor that you use.
 
 ## Autocomplete
 
