@@ -1,6 +1,6 @@
 {
   "name": "defold-ide",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Autocomplete and more for the Defold game engine",
   "repository": {
     "type": "git",
